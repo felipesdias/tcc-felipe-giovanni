@@ -1,0 +1,2 @@
+Bloco	Comprimento	Largura	CoordX	CoordY	Prateleiras
+0	50	30	0	0	12
